@@ -1,0 +1,12 @@
+#bot-right button {
+}
+
+.x {
+  width: 50px;
+  display: none;
+}
+
+.o {
+  display: none;
+  width: 50px;
+}
